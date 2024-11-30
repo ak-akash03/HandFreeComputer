@@ -33,7 +33,7 @@ To deploy this project run
 ```
 
 
-# Hi, I'm Vishnu! 👋
+# Hi, I'm Akash! 👋
 
 
 ## Lessons Learned
